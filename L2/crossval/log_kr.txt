@@ -1,0 +1,3502 @@
+
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        7.534292e-01 3.966322e-01
+a1        1.196056e+00 5.651864e-01
+b1        -5.983250e-01 5.407792e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x135AD850>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1359A088>
+
+Goodness of fit qualifiers:
+chi_squared            42.46413836866562
+objective_value        21.23206918433281
+r_squared              0.24342884626246508
+
+ Fit: 
+ [-0.56880764  0.63399959 -0.43449289 -0.58128685  1.86769042  0.23996666
+ -0.25216876  0.04677639  1.2219227   0.49767747  0.44646239  0.51220576
+  1.12549305  1.97221064  1.32572615  1.62252237 -0.57095048  1.4509678
+  1.51071621]
+
+ Data: 
+ [-2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        1.004041e+00 3.889092e-01
+a1        1.177874e+00 5.823955e-01
+b1        -3.167931e-01 5.465245e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10607118>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10607160>
+
+Goodness of fit qualifiers:
+chi_squared            43.485335452096095
+objective_value        21.742667726048047
+r_squared              0.20373375626408374
+
+ Fit: 
+ [ 1.64974513  0.65463528  0.05436404 -0.17341379  1.86507144  0.32020396
+ -0.05524681  0.57939367  1.65092616  0.53633301  0.49257254  0.54881584
+  1.10250863  2.19352182  1.73569424  1.96590324 -0.21337332  1.41952007
+  1.47997405]
+
+ Data: 
+ [ 3.5244075   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.480946e-01 3.881706e-01
+a1        1.429211e+00 5.581916e-01
+b1        -3.262701e-01 5.493545e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10612370>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10612598>
+
+Goodness of fit qualifiers:
+chi_squared            43.946213403681305
+objective_value        21.973106701840653
+r_squared              0.2911494211625084
+
+ Fit: 
+ [ 1.67120491 -0.61210186 -0.25725268 -0.55138704  1.84244253 -0.01967381
+ -0.45194174  0.39070513  1.67258938  0.23453806  0.18286416  0.24929523
+  0.91041112  2.28908976  1.77172111  2.03780948 -0.61056966  1.29431697
+  1.36801502]
+
+ Data: 
+ [ 3.5244075  -2.2161107  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        9.833818e-01 4.027768e-01
+a1        1.290868e+00 5.819656e-01
+b1        -3.100336e-01 5.833967e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x1064DE38>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1064DD48>
+
+Goodness of fit qualifiers:
+chi_squared            45.57588753468444
+objective_value        22.78794376734222
+r_squared              0.23535167673913326
+
+ Fit: 
+ [ 1.71635543 -0.34020147  0.56884988 -0.28834939  1.89478949  0.20964705
+ -0.18692973  0.55498694  1.71761871  0.44137348  0.39432541  0.45480498
+  1.0547585   2.28549991  1.8081381   2.05196644 -0.33897917  1.40170146
+  1.46817486]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        1.010559e+00 3.904913e-01
+a1        1.188684e+00 5.800967e-01
+b1        -2.798261e-01 5.551243e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10666B38>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10666D60>
+
+Goodness of fit qualifiers:
+chi_squared            43.53145824391256
+objective_value        21.76572912195628
+r_squared              0.2079903956393946
+
+ Fit: 
+ [ 1.68937379 -0.20650441  0.62402084  0.08439316  1.84490664  0.29436708
+ -0.06854605  0.62171671  1.69053233  0.506967    0.46378205  0.51929733
+  1.07071362  2.20937862  1.77352325  1.99675944 -0.20531921  1.39011977
+  1.45136475]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        1.114037e+00 3.456776e-01
+a1        1.730413e+00 5.087706e-01
+b1        -8.072462e-01 4.937552e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x105FA058>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x105FA0D0>
+
+Goodness of fit qualifiers:
+chi_squared            33.92058658681861
+objective_value        16.960293293409304
+r_squared              0.43080776436522195
+
+ Fit: 
+ [ 1.82957571 -0.78093416  0.89157144 -0.55741651 -0.7876279   0.33298861
+ -0.35561086  0.14981397  1.83159643  0.6977633   0.62509795  0.71839127
+  1.59489952  2.87501795  1.9780341   2.39412428 -0.78341952  2.06503156
+  2.15181934]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082   1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.585626e-01 3.911464e-01
+a1        1.469971e+00 5.699429e-01
+b1        -3.829146e-01 5.460364e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10693C88>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10693688>
+
+Goodness of fit qualifiers:
+chi_squared            44.68099849807303
+objective_value        22.340499249036515
+r_squared              0.2955283313229943
+
+ Fit: 
+ [ 1.67287286 -0.65786774  0.41192506 -0.31656889 -0.60463209  1.92232787
+ -0.46656452  0.34099322  1.67433638  0.26501353  0.21070585  0.28050862
+  0.96921458  2.34252644  1.77932874  2.06379226 -0.65679031  1.36468014
+  1.44019959]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.709406e-01 3.960254e-01
+a1        1.485523e+00 5.898766e-01
+b1        -4.534196e-01 5.473011e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x1068CDC0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1068C8E0>
+
+Goodness of fit qualifiers:
+chi_squared            45.66128481792538
+objective_value        22.83064240896269
+r_squared              0.28713559514081444
+
+ Fit: 
+ [ 1.64855911 -0.68201359  0.47611773 -0.37033209 -0.64114455  2.00359766
+  0.04373284  0.28172789  1.65009364  0.32376195  0.26725128  0.33986604
+  1.04812065  2.37323203  1.76045507  2.06306981 -0.68162449  1.44862757
+  1.52455233]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.891521e-01 4.120422e-01
+a1        1.388574e+00 5.746164e-01
+b1        -4.948976e-01 5.962709e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x106D10E8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1069BB80>
+
+Goodness of fit qualifiers:
+chi_squared            46.70979484168282
+objective_value        23.35489742084141
+r_squared              0.2707035834474676
+
+ Fit: 
+ [ 1.56756796 -0.58435572  0.58056285 -0.32855114 -0.5599817   2.00952976
+  0.16241103 -0.32887737  1.56906173  0.43399003  0.37942582  0.4495191
+  1.12466539  2.29621076  1.67677473  1.97583343 -0.58474035  1.49995135
+  1.57050007]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        7.162716e-01 3.860036e-01
+a1        1.153437e+00 5.500873e-01
+b1        -6.329451e-01 5.262469e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x1069FBC8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106B44D8>
+
+Goodness of fit qualifiers:
+chi_squared            40.21863240957541
+objective_value        20.109316204787707
+r_squared              0.24670592163855454
+
+ Fit: 
+ [ 1.12855306 -0.57609028  0.64869233 -0.47453266 -0.599009    1.83934705
+  0.25769176 -0.23933044 -0.02090018  0.51395324  0.4631923   0.5283385
+  1.13009487  1.89383633  1.23366848  1.53263508 -0.57874579  1.44469382
+  1.50198182]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.728059e-01 3.955161e-01
+a1        1.424132e+00 5.709396e-01
+b1        -3.787911e-01 5.570585e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10705970>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106D71D8>
+
+Goodness of fit qualifiers:
+chi_squared            45.65918163768017
+objective_value        22.829590818840085
+r_squared              0.2817838706289555
+
+ Fit: 
+ [ 1.65639297 -0.59874522  0.44674751 -0.27199829 -0.54869068  1.91017896
+  0.04322994 -0.40901907  0.36359275  1.65781738  0.25115397  0.31902392
+  0.98769574  2.31080289  1.76003659  2.03741059 -0.5977837   1.37092995
+  1.44404809]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.658633e-01 3.935940e-01
+a1        1.436860e+00 5.691075e-01
+b1        -3.718655e-01 5.533465e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10693460>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10693430>
+
+Goodness of fit qualifiers:
+chi_squared            45.225607411220686
+objective_value        22.612803705610343
+r_squared              0.28650248619292296
+
+ Fit: 
+ [ 1.66348349 -0.61566212  0.42722412 -0.28083916 -0.56315402  1.90356471
+  0.02212917 -0.43002873  0.36236562  1.66491201  0.28376368  0.29889351
+  0.97163895  2.31630461  1.76738409  2.04488772 -0.61458344  1.35816528
+  1.431998  ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.682583e-01 3.943770e-01
+a1        1.427317e+00 5.690394e-01
+b1        -3.704896e-01 5.557407e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x1072BEF8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1072BA60>
+
+Goodness of fit qualifiers:
+chi_squared            45.39360545714146
+objective_value        22.69680272857073
+r_squared              0.2837772540920378
+
+ Fit: 
+ [ 1.6598351  -0.60376429  0.43346317 -0.27171212 -0.55181777  1.90001632
+  0.03084351 -0.41874974  0.36701557  1.66125505  0.29089154  0.23819193
+  0.97440728  2.30910938  1.76311662  2.03902639 -0.60270429  1.3583805
+  1.43171636]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        9.129363e-01 4.018529e-01
+a1        1.379497e+00 5.748555e-01
+b1        -4.412520e-01 5.772276e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x106C5A90>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106C5988>
+
+Goodness of fit qualifiers:
+chi_squared            46.84713273872359
+objective_value        23.423566369361794
+r_squared              0.26698372300222284
+
+ Fit: 
+ [ 1.62128629 -0.53540335  0.5634743  -0.25606476 -0.50138038  1.9822677
+  0.1579759  -0.30989452  0.34567004  1.62272817  0.42081044  0.36783822
+  0.43590039  2.30880391  1.72650683  2.01212448 -0.53525467  1.46951371
+  1.5398999 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518   -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        1.118069e+00 3.790324e-01
+a1        1.769838e+00 5.693798e-01
+b1        -4.946771e-01 5.075997e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x1072B7D8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1072BFE8>
+
+Goodness of fit qualifiers:
+chi_squared            39.1790149906447
+objective_value        19.58950749532235
+r_squared              0.3790559116016551
+
+ Fit: 
+ [ 2.07555302 -0.71807625  0.60894944 -0.32397961 -0.66052797  2.42802289
+  0.10276833 -0.46885772  0.46141325  2.0773432   0.43009892  0.36388816
+  0.44898031  1.28438817  2.20590974  2.55606963 -0.71713335  1.76096098
+  1.8516867 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359   2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.420508e-01 4.126479e-01
+a1        1.288968e+00 5.918006e-01
+b1        -5.066330e-01 5.594864e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x1066B208>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1066B8F8>
+
+Goodness of fit qualifiers:
+chi_squared            45.954483831297
+objective_value        22.9772419156485
+r_squared              0.24196686668113476
+
+ Fit: 
+ [ 1.43959765 -0.54031579  0.5957864  -0.32647954 -0.52688078  1.92302964
+  0.19833449 -0.27664637  0.21807975  1.44102375  0.45696265  0.40515498
+  0.47169413  1.10712642  2.15004501  1.83240616 -0.54117021  1.45610156
+  1.5213098 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        8.993034e-01 4.161589e-01
+a1        1.355601e+00 6.091506e-01
+b1        -4.533768e-01 5.571032e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10632310>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10632880>
+
+Goodness of fit qualifiers:
+chi_squared            46.8069627857547
+objective_value        23.40348139287735
+r_squared              0.2442112730154492
+
+ Fit: 
+ [ 1.58190551 -0.53004003  0.57271402 -0.26542473 -0.50045269  1.96725709
+  0.17034971 -0.29734     0.32218042  1.58333894  0.43136428  0.37882524
+  0.44632523  1.09994642  2.27177299  1.68658663 -0.53010207  1.46593674
+  1.53498657]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        1.008137e+00 3.876842e-01
+a1        1.169622e+00 5.803990e-01
+b1        -3.091673e-01 5.451160e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x105FAF58>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x105FAEE0>
+
+Goodness of fit qualifiers:
+chi_squared            43.19721717516489
+objective_value        21.598608587582444
+r_squared              0.2025174852660242
+
+ Fit: 
+ [ 1.65300282 -0.19983517  0.6565792   0.0694827  -0.15835064  1.85844559
+  0.32555482 -0.04509843  0.59184749  1.65417105  0.53942223  0.49610083
+  0.55178139  1.10059735  2.18907006  1.73799881  1.9653631   1.41531801
+  1.47538046]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        9.611255e-01 3.990513e-01
+a1        1.427708e+00 5.742699e-01
+b1        -5.470310e-01 5.757354e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x10684700>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106847C0>
+
+Goodness of fit qualifiers:
+chi_squared            45.895690100043765
+objective_value        22.947845050021883
+r_squared              0.2830213966415025
+
+ Fit: 
+ [ 1.63262684 -0.56567854  0.67632825 -0.32175821 -0.54804733  2.14619824
+  0.23887732 -0.28156334  0.28406563  1.63419462  0.52338932  0.46635161
+  0.5396118   1.24083185  2.40934906  1.74739017  2.06357792 -0.56647609
+  1.69949794]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  1.2374194 ]
+
+#################
+Fourier fit n=1
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + b1*sin(6.28318530717959*x)}
+Parameter Value        Standard Deviation
+a0        9.312915e-01 4.030106e-01
+a1        1.398751e+00 5.811826e-01
+b1        -4.811492e-01 5.814355e-01
+Status message         Optimization terminated successfully.
+Number of iterations   5
+Objective              <symfit.core.objectives.LeastSquares object at 0x107356A0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10607D30>
+
+Goodness of fit qualifiers:
+chi_squared            46.73749019296093
+objective_value        23.368745096480463
+r_squared              0.2678641817925157
+
+ Fit: 
+ [ 1.62652537 -0.54766015  0.60565764 -0.28129291 -0.51972682  2.04480994
+  0.18786053 -0.30006365  0.32251471  1.62801558  0.45902772  0.40448942
+  0.47455424  1.15144226  2.34797497  1.73540458  2.03269597 -0.54786464
+  1.52925435]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  0.57227146]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        3.911960e-01 1.195878e-01
+a1        7.130628e-01 1.703037e-01
+a2        -7.891101e-01 1.871214e-01
+b1        3.538659e-01 1.863283e-01
+b2        2.085127e+00 1.611171e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x106D12E0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10607E38>
+
+Goodness of fit qualifiers:
+chi_squared            3.1848169067245826
+objective_value        1.5924084533622913
+r_squared              0.9432570471430681
+
+ Fit: 
+ [-2.03998932  1.93318492 -1.48576317 -2.24985922 -0.96297364  1.56956432
+ -0.05471802  1.06793341  3.17666028  1.89326547  1.85530875  1.90171993
+  1.39363944  0.13828283  3.00686581  2.12995941 -2.06052036  0.52465089
+  0.32941927]
+
+ Data: 
+ [-2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.215472e-01 1.218173e-01
+a1        7.168201e-01 1.737703e-01
+a2        -7.797659e-01 1.949564e-01
+b1        3.899779e-01 1.802845e-01
+b2        2.099069e+00 1.604502e-01
+Status message         Optimization terminated successfully.
+Number of iterations   13
+Objective              <symfit.core.objectives.LeastSquares object at 0x105FA1D8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x136C1730>
+
+Goodness of fit qualifiers:
+chi_squared            3.2418527545437286
+objective_value        1.6209263772718643
+r_squared              0.9406379670579029
+
+ Fit: 
+ [ 3.2508239   1.93911934 -1.44457288 -2.21209801 -0.97882506  1.58860076
+ -0.02216876  1.12213462  3.24893694  1.90380634  1.86757151  1.9117708
+  1.38402362  0.17917365  3.07822121  2.19432866 -2.02319862  0.50777379
+  0.31172739]
+
+ Data: 
+ [ 3.5244075   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.028104e-01 1.172819e-01
+a1        7.458830e-01 1.701180e-01
+a2        -7.894510e-01 1.880609e-01
+b1        3.976968e-01 1.802627e-01
+b2        2.094453e+00 1.593857e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x1073D6E8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10735880>
+
+Goodness of fit qualifiers:
+chi_squared            3.209706658495017
+objective_value        1.6048533292475085
+r_squared              0.9482275662325402
+
+ Fit: 
+ [ 3.25332465 -2.05183355 -1.46682429 -2.25285319 -0.98091914  1.53686308
+ -0.08168061  1.11875954  3.25143255  1.85923139  1.82147842  1.8676334
+  1.35984566  0.17988173  3.08032358  2.1953058  -2.07195066  0.49413458
+  0.29992314]
+
+ Data: 
+ [ 3.5244075  -2.2161107  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        3.874940e-01 1.245055e-01
+a1        7.510224e-01 1.725987e-01
+a2        -7.717436e-01 1.954985e-01
+b1        3.498289e-01 1.947805e-01
+b2        2.135155e+00 1.624075e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x1071EF40>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1071E568>
+
+Goodness of fit qualifiers:
+chi_squared            3.2188773208066372
+objective_value        1.6094386604033186
+r_squared              0.9459953655479753
+
+ Fit: 
+ [ 3.2509803  -2.09631547  1.94992781 -2.32330133 -0.99623635  1.59179988
+ -0.05447305  1.03038621  3.24916588  1.91353394  1.87649769  1.92168486
+  1.38861393  0.18602899  3.08327899  2.207624   -2.11787777  0.50262225
+  0.30459014]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        3.998450e-01 1.235627e-01
+a1        7.415026e-01 1.738879e-01
+a2        -8.047616e-01 1.898729e-01
+b1        3.812814e-01 1.826368e-01
+b2        2.123858e+00 1.638824e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x10748EF8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107488C8>
+
+Goodness of fit qualifiers:
+chi_squared            3.2627766193838146
+objective_value        1.6313883096919073
+r_squared              0.9406371731230351
+
+ Fit: 
+ [ 3.26421862 -2.08533603  1.945204   -1.50377715 -0.98949136  1.57483211
+ -0.07519477  1.10947309  3.26229715  1.90428505  1.86559368  1.9129118
+  1.39859004  0.15560195  3.08867957  2.1923187  -2.10596304  0.5172786
+  0.31932469]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.509695e-01 1.266939e-01
+a1        7.947813e-01 1.835632e-01
+a2        -7.940408e-01 1.849790e-01
+b1        3.234667e-01 1.943155e-01
+b2        2.039320e+00 1.789868e-01
+Status message         Optimization terminated successfully.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x107696B8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10658238>
+
+Goodness of fit qualifiers:
+chi_squared            3.132406196470137
+objective_value        1.5662030982350685
+r_squared              0.947437781439254
+
+ Fit: 
+ [ 3.23132844 -2.04445876  1.93713102 -1.45356738 -2.23863116  1.54136308
+ -0.09304204  1.10316562  3.22953495  1.88423321  1.8418773   1.89398468
+  1.45683302  0.27961786  3.06654709  2.21691906 -2.06414454  0.63423627
+  0.44778875]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082   1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.093522e-01 1.182958e-01
+a1        7.303944e-01 1.743636e-01
+a2        -7.987218e-01 1.898854e-01
+b1        3.866410e-01 1.821277e-01
+b2        2.114623e+00 1.627819e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x10658658>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106584D8>
+
+Goodness of fit qualifiers:
+chi_squared            3.27572930910546
+objective_value        1.63786465455273
+r_squared              0.9483525755893925
+
+ Fit: 
+ [ 3.26046569 -2.05330146  1.94502585 -1.47645599 -2.26059695 -0.98523483
+ -0.05555708  1.12111625  3.25854637  1.90585197  1.86793598  1.91427071
+  1.39590478  0.16054838  3.08522509  2.19126978 -2.07382582  0.5161109
+  0.31870197]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        3.785870e-01 1.038201e-01
+a1        8.159657e-01 1.534232e-01
+a2        -9.229118e-01 1.749229e-01
+b1        4.243765e-01 1.588674e-01
+b2        2.080234e+00 1.380687e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x107E5CB8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107E5628>
+
+Goodness of fit qualifiers:
+chi_squared            2.489796317902947
+objective_value        1.2448981589514736
+r_squared              0.9611292766408162
+
+ Fit: 
+ [ 3.27498634 -2.2342756   1.86204822 -1.4563272  -2.37787621 -0.91378912
+  1.40882015  1.24839381  3.27282481  1.79144704  1.74175984  1.80321513
+  1.41636782  0.09271138  3.08201881  2.14276425 -2.25185283  0.58321218
+  0.39120204]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.618159e-01 1.177746e-01
+a1        6.898761e-01 1.630503e-01
+a2        -9.799233e-01 2.228442e-01
+b1        5.628634e-01 2.146448e-01
+b2        2.118169e+00 1.481870e-01
+Status message         Optimization terminated successfully.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x1079F100>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1079F7D8>
+
+Goodness of fit qualifiers:
+chi_squared            2.901916911777131
+objective_value        1.4509584558885655
+r_squared              0.9546913530220933
+
+ Fit: 
+ [ 3.39422023 -2.05683975  1.95315462 -1.20556008 -2.1771897  -1.01742244
+  1.52615722 -0.16474551  3.39170884  1.89312939  1.84697612  1.90385282
+  1.45298612 -0.01535821  3.1746464   2.15114105 -2.07332029  0.56755185
+  0.36440905]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        3.616983e-01 1.086042e-01
+a1        6.808821e-01 1.546753e-01
+a2        -7.720448e-01 1.699133e-01
+b1        2.980320e-01 1.691665e-01
+b2        2.039485e+00 1.463008e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x107A9F58>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10712BE0>
+
+Goodness of fit qualifiers:
+chi_squared            2.6265645441977736
+objective_value        1.3132822720988868
+r_squared              0.9508045052992095
+
+ Fit: 
+ [ 3.04310454 -2.01549306  1.91964927 -1.50321773 -2.23149997 -0.92926486
+  1.55823021 -0.0464285   0.97748239  1.87915231  1.84133862  1.88760241
+  1.39268584  0.09945642  2.87735582  2.02828271 -2.03613589  0.53894732
+  0.34682247]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.189321e-01 1.140714e-01
+a1        7.014006e-01 1.664923e-01
+a2        -8.070091e-01 1.823260e-01
+b1        3.691010e-01 1.754644e-01
+b2        2.151330e+00 1.562163e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x108173B8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10817B98>
+
+Goodness of fit qualifiers:
+chi_squared            3.042785741562928
+objective_value        1.521392870781464
+r_squared              0.9521371667334648
+
+ Fit: 
+ [ 3.27291016e+00 -2.04978262e+00  2.02129729e+00 -1.49638063e+00
+ -2.27077662e+00 -1.00238521e+00  1.65908052e+00 -2.72987177e-03
+  1.11728675e+00  3.27095807e+00  1.94715770e+00  1.99286797e+00
+  1.44878840e+00  1.30688571e-01  3.09482898e+00  2.18784715e+00
+ -2.07113711e+00  5.42679058e-01  3.39625723e-01]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.151360e-01 1.165762e-01
+a1        7.112215e-01 1.705213e-01
+a2        -8.013257e-01 1.862508e-01
+b1        3.756829e-01 1.793605e-01
+b2        2.138332e+00 1.599793e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x106B5E20>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106B5BC8>
+
+Goodness of fit qualifiers:
+chi_squared            3.179445460564336
+objective_value        1.589722730282168
+r_squared              0.9498397796900563
+
+ Fit: 
+ [ 3.26821991 -2.04866729  1.99257338 -1.49000893 -2.26564463 -0.99864656
+  1.63150984 -0.01910608  1.11594813  3.26628503  1.95560425  1.96384374
+  1.42680526  0.1431383   3.09155921  2.19030579 -2.06976176  0.5297506
+  0.32873928]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.163945e-01 1.160539e-01
+a1        7.098754e-01 1.692777e-01
+a2        -8.060353e-01 1.855338e-01
+b1        3.739176e-01 1.785007e-01
+b2        2.140904e+00 1.588234e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x107C7430>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107C7808>
+
+Goodness of fit qualifiers:
+chi_squared            3.148937759894669
+objective_value        1.5744688799473345
+r_squared              0.9503158908314869
+
+ Fit: 
+ [ 3.26952439 -2.05199537  2.00044983 -1.49038963 -2.26867434 -0.99637154
+  1.63680577 -0.01894418  1.11972753  3.26757879  1.96277236  1.92505991
+  1.43536015  0.13822329  3.09204136  2.18819668 -2.07309676  0.53686159
+  0.33539066]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.205386e-01 1.185795e-01
+a1        7.331727e-01 1.681673e-01
+a2        -8.239162e-01 1.921696e-01
+b1        3.721648e-01 1.813684e-01
+b2        2.113080e+00 1.557178e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x106B46E8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106B4628>
+
+Goodness of fit qualifiers:
+chi_squared            3.2067651156486563
+objective_value        1.6033825578243281
+r_squared              0.949823801610464
+
+ Fit: 
+ [ 3.26050342 -2.06872329  1.97697037 -1.46941711 -2.27020694 -0.94606669
+  1.59435638 -0.06611347  1.14267729  3.25854122  1.93175523  1.89144701
+  1.94084144  0.15008967  3.08214983  2.18070936 -2.0890303   0.56704986
+  0.36926931]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518   -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.609591e-01 1.260497e-01
+a1        8.379860e-01 1.971059e-01
+a2        -6.861861e-01 2.169055e-01
+b1        3.192523e-01 1.888256e-01
+b2        2.062517e+00 1.607796e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x106FB2F8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x136C1490>
+
+Goodness of fit qualifiers:
+chi_squared            3.068605612683762
+objective_value        1.534302806341881
+r_squared              0.951365992348788
+
+ Fit: 
+ [ 3.30077973 -2.00310606  1.90045187 -1.52755587 -2.23494048 -0.83341712
+  1.55996438 -0.01839167  0.99466926  3.29926524  1.86608134  1.83094302
+  1.87380576  1.37061162  3.15624014  2.35690866 -2.02452332  0.54186351
+  0.35780781]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359   2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.431072e-01 1.154286e-01
+a1        7.771698e-01 1.655255e-01
+a2        -7.985704e-01 1.795804e-01
+b1        4.350476e-01 1.763286e-01
+b2        2.157529e+00 1.539017e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x106FBEE0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106FBE80>
+
+Goodness of fit qualifiers:
+chi_squared            2.9563212153991216
+objective_value        1.4781606076995608
+r_squared              0.9512345858951892
+
+ Fit: 
+ [ 3.404253   -2.07416334  1.9513139  -1.4720128  -2.28015808 -1.00730434
+  1.59016063 -0.05815861  1.19066054  3.40232296  1.91415969  1.87674239
+  1.92241003  1.38871685  0.23588814  2.31780475 -2.09478194  0.49820198
+  0.29910392]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.080526e-01 1.231247e-01
+a1        7.307537e-01 1.815989e-01
+a2        -8.008634e-01 1.962830e-01
+b1        3.876019e-01 1.811311e-01
+b2        2.112279e+00 1.579627e-01
+Status message         Optimization terminated successfully.
+Number of iterations   8
+Objective              <symfit.core.objectives.LeastSquares object at 0x1064D580>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1079F970>
+
+Goodness of fit qualifiers:
+chi_squared            3.2761474679746616
+objective_value        1.6380737339873308
+r_squared              0.9471002778888316
+
+ Fit: 
+ [ 3.25759597 -2.05500743  1.94158347 -1.47430376 -2.26074617 -0.98408535
+  1.57614305 -0.06046256  1.12327759  3.25567163  1.90185313  1.86374607
+  1.91032803  1.39476255  0.15762018  3.08201395 -2.07545039  0.51639083
+  0.31919949]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.255406e-01 1.214364e-01
+a1        7.121689e-01 1.730921e-01
+a2        -7.743776e-01 1.938892e-01
+b1        3.911686e-01 1.796444e-01
+b2        2.094552e+00 1.600221e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x10640508>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10640F70>
+
+Goodness of fit qualifiers:
+chi_squared            3.217667277778177
+objective_value        1.6088336388890885
+r_squared              0.9405972523217296
+
+ Fit: 
+ [ 3.24810023 -1.98689091  1.93809271 -1.43422991 -2.19689539 -0.97699841
+  1.59164347 -0.01149224  1.12328321  3.24622166  1.90395157  1.86822314
+  1.91177886  1.38104473  0.18420069  3.07619017  2.19502068  0.50563859
+  0.30994886]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        4.046432e-01 1.221932e-01
+a1        7.286184e-01 1.721221e-01
+a2        -7.941196e-01 1.934239e-01
+b1        3.933162e-01 1.861649e-01
+b2        2.117049e+00 1.608591e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x106FBE50>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10771AC0>
+
+Goodness of fit qualifiers:
+chi_squared            3.2722026893927154
+objective_value        1.6361013446963577
+r_squared              0.9488819253173302
+
+ Fit: 
+ [ 3.26175318 -2.05195872  1.93568003 -1.4784444  -2.26024845 -1.0010347
+  1.57630632 -0.05503692  1.11824721  3.25983699  1.898109    1.86080405
+  1.90635504  1.38151471  0.15819691  3.08669233  2.19247022 -2.07252297
+  0.30204719]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  1.2374194 ]
+
+#################
+Fourier fit n=2
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x)}
+Parameter Value        Standard Deviation
+a0        3.332640e-01 9.990070e-02
+a1        6.590393e-01 1.407959e-01
+a2        -7.158188e-01 1.567649e-01
+b1        4.909050e-01 1.521458e-01
+b2        2.202267e+00 1.321957e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x10769AA8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107698C8>
+
+Goodness of fit qualifiers:
+chi_squared            2.1635359059556856
+objective_value        1.0817679529778428
+r_squared              0.966108532482416
+
+ Fit: 
+ [ 3.29652255 -2.01361382  1.85897046 -1.53508781 -2.25777274 -1.30476912
+  1.58937398  0.02619577  1.05779807  3.29463509  1.85426077  1.82891113
+  1.85907087  1.18389616  0.08475523  3.12220831  2.21063684 -2.03594455
+  0.2335719 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  0.57227146]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.645111e-01 1.390915e-01
+a1        6.394449e-01 1.821024e-01
+a2        -8.355970e-01 1.892192e-01
+a3        -2.147550e-01 1.845893e-01
+b1        3.598455e-01 1.857229e-01
+b2        2.195129e+00 1.790915e-01
+b3        9.656413e-02 1.882270e-01
+Status message         Optimization terminated successfully.
+Number of iterations   16
+Objective              <symfit.core.objectives.LeastSquares object at 0x10623C58>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106234D8>
+
+Goodness of fit qualifiers:
+chi_squared            2.7107004543184954
+objective_value        1.3553502271592477
+r_squared              0.9517042415330409
+
+ Fit: 
+ [-1.89230152  1.83678202 -1.72848179 -2.23399743 -0.88750195  1.49987504
+  0.08907128  0.92750734  3.41620112  1.78959365  1.75329761  1.79802534
+  1.42804654 -0.24191014  3.19791431  2.09607726 -1.91835811  0.66054064
+  0.47624978]
+
+ Data: 
+ [-2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.855134e-01 1.351007e-01
+a1        5.932482e-01 1.860472e-01
+a2        -8.026416e-01 1.879696e-01
+a3        -2.453698e-01 1.762051e-01
+b1        3.722495e-01 1.736011e-01
+b2        2.192126e+00 1.641038e-01
+b3        1.263305e-01 1.852731e-01
+Status message         Optimization terminated successfully.
+Number of iterations   10
+Objective              <symfit.core.objectives.LeastSquares object at 0x107A9C10>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107A97C0>
+
+Goodness of fit qualifiers:
+chi_squared            2.567968139420231
+objective_value        1.2839840697101155
+r_squared              0.9529775653527564
+
+ Fit: 
+ [ 3.45601206  1.82092453 -1.69725117 -2.11844773 -0.88343762  1.50794087
+  0.18022963  0.8962721   3.4535934   1.77787669  1.74421313  1.78567252
+  1.42289165 -0.2683927   3.23488384  2.11677288 -1.77970669  0.66981014
+  0.48729167]
+
+ Data: 
+ [ 3.5244075   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.648914e-01 1.337949e-01
+a1        6.608573e-01 1.782404e-01
+a2        -8.283986e-01 1.832536e-01
+a3        -2.549672e-01 1.785524e-01
+b1        3.834347e-01 1.745329e-01
+b2        2.183868e+00 1.656532e-01
+b3        8.540774e-02 1.834729e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   13
+Objective              <symfit.core.objectives.LeastSquares object at 0x10771D90>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10771D00>
+
+Goodness of fit qualifiers:
+chi_squared            2.572280135864221
+objective_value        1.2861400679321104
+r_squared              0.9585092293051398
+
+ Fit: 
+ [ 3.45663354 -1.87787539 -1.75481635 -2.23846058 -0.8507096   1.4463041
+  0.10020013  0.94406275  3.45408729  1.7127489   1.67999442  1.7202839
+  1.36021002 -0.25160992  3.22683709  2.09729455 -1.90481054  0.63336737
+  0.45833443]
+
+ Data: 
+ [ 3.5244075  -2.2161107  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.120438e-01 1.329037e-01
+a1        6.766673e-01 1.695475e-01
+a2        -7.736159e-01 1.795124e-01
+a3        -3.523469e-01 1.882883e-01
+b1        2.485242e-01 1.851003e-01
+b2        2.304678e+00 1.692687e-01
+b3        7.826749e-02 1.740460e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x10771058>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10771730>
+
+Goodness of fit qualifiers:
+chi_squared            2.318294914697251
+objective_value        1.1591474573486256
+r_squared              0.9611048645405229
+
+ Fit: 
+ [ 3.50339938 -1.96213032  1.79424902 -2.45879529 -0.81330155  1.55083341
+  0.24816693  0.65935796  3.50080811  1.772952    1.74845103  1.77822917
+  1.3723323  -0.33411039  3.26711775  2.089263   -1.99609094  0.659497
+  0.48830233]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.655477e-01 1.381818e-01
+a1        6.529808e-01 1.896407e-01
+a2        -8.445349e-01 1.887668e-01
+a3        -2.288230e-01 1.812764e-01
+b1        3.643157e-01 1.802593e-01
+b2        2.214357e+00 1.719293e-01
+b3        8.820350e-02 1.963283e-01
+Status message         Optimization terminated successfully.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x10623AF0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x136A9670>
+
+Goodness of fit qualifiers:
+chi_squared            2.709873179658566
+objective_value        1.354936589829283
+r_squared              0.9506966761172324
+
+ Fit: 
+ [ 3.45351035 -1.91973185  1.83482826 -1.76334574 -0.8816952   1.50496496
+  0.09343609  0.94114309  3.45100796  1.78997456  1.75462848  1.79814172
+  1.42298489 -0.2509339   3.2270556   2.10596751 -1.94646163  0.65928379
+  0.47608774]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        5.186857e-01 1.644554e-01
+a1        7.998943e-01 2.006562e-01
+a2        -8.373858e-01 1.735147e-01
+a3        -3.694283e-01 1.944244e-01
+b1        2.317206e-01 1.908709e-01
+b2        2.044782e+00 1.918348e-01
+b3        -5.823256e-02 2.053924e-01
+Status message         Optimization terminated successfully.
+Number of iterations   15
+Objective              <symfit.core.objectives.LeastSquares object at 0x108A96A0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x108A9610>
+
+Goodness of fit qualifiers:
+chi_squared            2.320122501875124
+objective_value        1.160061250937562
+r_squared              0.9610680166037566
+
+ Fit: 
+ [ 3.42957246 -1.87729849  1.74172135 -1.82402758 -2.3094089   1.51475112
+  0.26404622  1.07504674  3.42664945  1.71988615  1.69718141  1.72483534
+  1.41477633 -0.04750633  3.17535183  2.03877341 -1.90861621  0.87227375
+  0.74270846]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082   1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.647387e-01 1.405135e-01
+a1        6.452123e-01 1.830176e-01
+a2        -8.430767e-01 1.888353e-01
+a3        -2.217871e-01 1.793998e-01
+b1        3.719259e-01 1.793737e-01
+b2        2.202946e+00 1.702920e-01
+b3        1.064464e-01 1.945124e-01
+Status message         Optimization terminated successfully.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x107A9DA8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1064D988>
+
+Goodness of fit qualifiers:
+chi_squared            2.7144899697811686
+objective_value        1.3572449848905843
+r_squared              0.957201464987377
+
+ Fit: 
+ [ 3.45069092 -1.89235161  1.82615639 -1.73062203 -2.23335953 -0.89074687
+  0.0761631   0.93370115  3.44823928  1.77588608  1.73859353  1.78461843
+  1.42991795 -0.25262394  3.22783464  2.11335273 -1.91830316  0.6666069
+  0.48224763]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        2.662552e-01 1.264007e-01
+a1        7.232074e-01 1.592360e-01
+a2        -9.713646e-01 1.711656e-01
+a3        -2.286335e-02 1.789836e-01
+b1        4.191085e-01 1.537238e-01
+b2        2.165013e+00 1.441841e-01
+b3        2.704192e-01 1.786458e-01
+Status message         Optimization terminated successfully.
+Number of iterations   14
+Objective              <symfit.core.objectives.LeastSquares object at 0x1069B208>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1069BC88>
+
+Goodness of fit qualifiers:
+chi_squared            1.968418592952704
+objective_value        0.984209296476352
+r_squared              0.9692690305501845
+
+ Fit: 
+ [ 3.39704682 -2.11710227  1.8536313  -1.52124182 -2.24013433 -1.09148748
+  1.20672016  0.90510158  3.39521335  1.7083441   1.63177919  1.72790751
+  1.62071853 -0.2218156   3.22010432  2.21350514 -2.13136523  0.76916874
+  0.55155688]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        5.064802e-01 1.805714e-01
+a1        6.610151e-01 1.739500e-01
+a2        -1.037594e+00 2.524056e-01
+a3        -2.507839e-01 1.725280e-01
+b1        5.785684e-01 2.540321e-01
+b2        2.160336e+00 1.653160e-01
+b3        -9.501925e-02 2.506830e-01
+Status message         Optimization terminated successfully.
+Number of iterations   13
+Objective              <symfit.core.objectives.LeastSquares object at 0x13582BE0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1066E7C0>
+
+Goodness of fit qualifiers:
+chi_squared            2.4661950321639106
+objective_value        1.2330975160819553
+r_squared              0.9614944316160478
+
+ Fit: 
+ [ 3.55023094 -1.98011403  1.82180385 -1.4215971  -2.26226519 -0.75802448
+  1.56099347  0.12065008  3.54667263  1.8041043   1.77853471  1.80942872
+  1.34493772 -0.29874762  3.24987028  1.98563279 -2.00515825  0.61503684
+  0.44750807]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.397150e-01 1.292084e-01
+a1        6.229027e-01 1.691862e-01
+a2        -8.080578e-01 1.757573e-01
+a3        -1.650868e-01 1.714179e-01
+b1        3.025503e-01 1.724946e-01
+b2        2.125363e+00 1.663491e-01
+b3        7.815743e-02 1.748877e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   14
+Objective              <symfit.core.objectives.LeastSquares object at 0x106B5A60>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10654400>
+
+Goodness of fit qualifiers:
+chi_squared            2.3396305473000876
+objective_value        1.1698152736500438
+r_squared              0.9561787725925982
+
+ Fit: 
+ [ 3.22947831 -1.89996302  1.84582114 -1.69045716 -2.21697251 -0.87430751
+  1.50224262  0.06167349  0.86436886  1.7987189   1.76180959  1.80725886
+  1.42207758 -0.19650523  3.02640089  2.0038663  -1.92480364  0.64575006
+  0.46161273]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.782125e-01 1.346103e-01
+a1        6.250783e-01 1.785993e-01
+a2        -8.425716e-01 1.831859e-01
+a3        -2.025297e-01 1.767664e-01
+b1        3.568469e-01 1.749110e-01
+b2        2.229268e+00 1.661901e-01
+b3        9.515195e-02 1.832281e-01
+Status message         Optimization terminated successfully.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x107DF4F0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107DF0A0>
+
+Goodness of fit qualifiers:
+chi_squared            2.585657933421274
+objective_value        1.292828966710637
+r_squared              0.9593277591447933
+
+ Fit: 
+ [ 3.44455814 -1.89987679  1.90653435 -1.72793356 -2.24380174 -0.91654268
+  1.56694391  0.12026018  0.94482549  3.44212739  1.82467447  1.86942215
+  1.47110168 -0.2397897   3.22363025  2.11811139 -1.92622586  0.67267583
+  0.48212937]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.749824e-01 1.374101e-01
+a1        6.332926e-01 1.818588e-01
+a2        -8.396466e-01 1.865420e-01
+a3        -2.147449e-01 1.792269e-01
+b1        3.628444e-01 1.781320e-01
+b2        2.218683e+00 1.692656e-01
+b3        9.361514e-02 1.870965e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   12
+Objective              <symfit.core.objectives.LeastSquares object at 0x108BB460>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x108BB3D0>
+
+Goodness of fit qualifiers:
+chi_squared            2.681760483664127
+objective_value        1.3408802418320636
+r_squared              0.9576914596121999
+
+ Fit: 
+ [ 3.44755692 -1.89453235  1.87108073 -1.73405701 -2.24212436 -0.90102022
+  1.53825191  0.11478426  0.94400376  3.44510006  1.82640201  1.83461659
+  1.44633258 -0.24324423  3.22460411  2.11336174 -1.92100124  0.66465935
+  0.47767289]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.744314e-01 1.365234e-01
+a1        6.310538e-01 1.812477e-01
+a2        -8.424026e-01 1.859166e-01
+a3        -2.089874e-01 1.796185e-01
+b1        3.612782e-01 1.774977e-01
+b2        2.221377e+00 1.686389e-01
+b3        9.798539e-02 1.858739e-01
+Status message         Optimization terminated successfully.
+Number of iterations   15
+Objective              <symfit.core.objectives.LeastSquares object at 0x10803208>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10612478>
+
+Goodness of fit qualifiers:
+chi_squared            2.6626179941513755
+objective_value        1.3313089970756877
+r_squared              0.9579890702254181
+
+ Fit: 
+ [ 3.44657309 -1.89711562  1.88202773 -1.72943926 -2.24080652 -0.90798545
+  1.54209857  0.10853515  0.94169357  3.44413382  1.83537998  1.79885337
+  1.45798519 -0.2437309   3.2249005   2.11631248 -1.9233801   0.67052027
+  0.48196461]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.652392e-01 1.348904e-01
+a1        6.304021e-01 1.790481e-01
+a2        -8.726877e-01 1.900223e-01
+a3        -2.003806e-01 1.788145e-01
+b1        3.488047e-01 1.776551e-01
+b2        2.215977e+00 1.651456e-01
+b3        1.474234e-01 1.966699e-01
+Status message         Optimization terminated successfully.
+Number of iterations   15
+Objective              <symfit.core.objectives.LeastSquares object at 0x1081A8E0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1081A7F0>
+
+Goodness of fit qualifiers:
+chi_squared            2.6140951196578652
+objective_value        1.3070475598289326
+r_squared              0.9590972988033958
+
+ Fit: 
+ [ 3.45392158 -1.89605418  1.89670151 -1.71026464 -2.21646995 -0.89496044
+  1.49478961  0.03355136  0.9057382   3.45155331  1.82775534  1.7828781
+  1.8385924  -0.28015128  3.23655579  2.12586224 -1.92077442  0.75014086
+  0.55743719]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518   -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.321758e-01 1.798911e-01
+a1        5.693020e-01 2.950350e-01
+a2        -9.046227e-01 2.779724e-01
+a3        -2.690983e-01 2.311249e-01
+b1        3.988687e-01 2.011029e-01
+b2        2.252956e+00 2.228347e-01
+b3        1.272443e-01 2.068336e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x108D4F40>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x108DB6E8>
+
+Goodness of fit qualifiers:
+chi_squared            2.696522378849602
+objective_value        1.348261189424801
+r_squared              0.957263100392383
+
+ Fit: 
+ [ 3.47243597 -1.87887363  1.83386154 -1.76388066 -2.24031581 -0.94911578
+  1.48723163  0.10064587  0.95325071  3.4696729   1.78069193  1.74278377
+  1.7896498   1.45312346  3.22440152  2.01643782 -1.90577121  0.68502152
+  0.49620649]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359   2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.961465e-01 1.235131e-01
+a1        6.770423e-01 1.632106e-01
+a2        -8.476508e-01 1.674527e-01
+a3        -2.567554e-01 1.608942e-01
+b1        4.299886e-01 1.628387e-01
+b2        2.292416e+00 1.573144e-01
+b3        1.475793e-01 1.695802e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x1081AA30>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1081A328>
+
+Goodness of fit qualifiers:
+chi_squared            2.1597847100487835
+objective_value        1.0798923550243917
+r_squared              0.9643736968722634
+
+ Fit: 
+ [ 3.68786793 -1.8756575   1.83499979 -1.77513771 -2.23950783 -0.93350612
+  1.48611941  0.09850085  0.95878142  3.6853626   1.78136434  1.74317072
+  1.7903934   1.45158317 -0.24292957  2.28321036 -1.90258279  0.6808691
+  0.49225815]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.642287e-01 1.385499e-01
+a1        6.282690e-01 1.913457e-01
+a2        -8.536052e-01 1.962694e-01
+a3        -2.346353e-01 1.857685e-01
+b1        3.694602e-01 1.781988e-01
+b2        2.203836e+00 1.680339e-01
+b3        8.965509e-02 1.923744e-01
+Status message         Optimization terminated successfully.
+Number of iterations   14
+Objective              <symfit.core.objectives.LeastSquares object at 0x10828A60>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10828FD0>
+
+Goodness of fit qualifiers:
+chi_squared            2.706751102456303
+objective_value        1.3533755512281516
+r_squared              0.9562942808454967
+
+ Fit: 
+ [ 3.43127012 -1.89253361  1.83085314 -1.73822625 -2.24335675 -0.88029246
+  1.50290388  0.10483254  0.95510101  3.42871289  1.78588176  1.75069245
+  1.79402524  1.42403329 -0.29130246  3.20078823 -1.91911806  0.66432981
+  0.48153554]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.872835e-01 1.339105e-01
+a1        5.868866e-01 1.844684e-01
+a2        -7.986951e-01 1.861570e-01
+a3        -2.456091e-01 1.743426e-01
+b1        3.735671e-01 1.721827e-01
+b2        2.189263e+00 1.628476e-01
+b3        1.316308e-01 1.840627e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x10612448>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10612C40>
+
+Goodness of fit qualifiers:
+chi_squared            2.525541208447269
+objective_value        1.2627706042236344
+r_squared              0.9533748911229691
+
+ Fit: 
+ [ 3.45572122 -1.73545245  1.81988014 -1.68772277 -2.10077867 -0.88521523
+  1.50680213  0.18634894  0.89143233  3.45331672  1.77643391  1.74270373
+  1.78425788  1.42421604 -0.26973602  3.23555347  2.11874579  0.67151165
+  0.48881288]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.722593e-01 1.380807e-01
+a1        6.440633e-01 1.815625e-01
+a2        -8.511288e-01 1.934737e-01
+a3        -2.266328e-01 1.795187e-01
+b1        3.588690e-01 1.843245e-01
+b2        2.203131e+00 1.683322e-01
+b3        1.093741e-01 1.923186e-01
+Status message         Optimization terminated successfully.
+Number of iterations   14
+Objective              <symfit.core.objectives.LeastSquares object at 0x10769460>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106B54A8>
+
+Goodness of fit qualifiers:
+chi_squared            2.7070241178813412
+objective_value        1.3535120589406706
+r_squared              0.9577110973369048
+
+ Fit: 
+ [ 3.45341081 -1.88917101  1.84407434 -1.73437343 -2.23267209 -0.86370292
+  1.49325414  0.08262439  0.93205964  3.45094418  1.79108674  1.75283927
+  1.80009725  1.45806595 -0.25893505  3.22931306  2.11021897 -1.91523663
+  0.51486943]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  1.2374194 ]
+
+#################
+Fourier fit n=3
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x)}
+Parameter Value        Standard Deviation
+a0        3.254306e-01 1.166262e-01
+a1        6.119429e-01 1.527110e-01
+a2        -7.538700e-01 1.617515e-01
+a3        -1.725351e-01 1.516704e-01
+b1        4.666146e-01 1.554960e-01
+b2        2.253306e+00 1.419932e-01
+b3        3.989036e-02 1.593652e-01
+Status message         Optimization terminated successfully.
+Number of iterations   11
+Objective              <symfit.core.objectives.LeastSquares object at 0x10684538>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10684910>
+
+Goodness of fit qualifiers:
+chi_squared            1.9043184118817225
+objective_value        0.9521592059408612
+r_squared              0.97016913589381
+
+ Fit: 
+ [ 3.42539092 -1.91089379  1.78382769 -1.72313011 -2.26204846 -1.16700178
+  1.55163127  0.1583092   0.97232073  3.4230176   1.77896305  1.75715011
+  1.78313017  1.20673453 -0.18718712  3.21005385  2.13444069 -1.93797626
+  0.3568868 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  0.57227146]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.628104e-01 1.475512e-01
+a1        3.987503e-01 2.267664e-01
+a2        -7.796737e-01 1.859946e-01
+a3        -6.894080e-02 1.980949e-01
+a4        8.626524e-02 1.639306e-01
+b1        3.481163e-01 1.843370e-01
+b2        2.259852e+00 1.937091e-01
+b3        2.699575e-01 2.089842e-01
+b4        3.776130e-01 2.289283e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x106D1100>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106D1A30>
+
+Goodness of fit qualifiers:
+chi_squared            2.107740253681847
+objective_value        1.0538701268409234
+r_squared              0.9624470073627157
+
+ Fit: 
+ [-2.03907597  1.68015205 -1.43370302 -2.35602444 -1.04074306  1.61761945
+  0.44570922  0.86036143  3.2121679   1.69805597  1.69617137  1.69763692
+  1.38934159 -0.38306801  3.17273566  2.44311329 -2.06923257  0.82222675
+  0.65318647]
+
+ Data: 
+ [-2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.992148e-01 1.486130e-01
+a1        4.080633e-01 2.248208e-01
+a2        -7.768872e-01 1.879031e-01
+a3        -1.259922e-01 1.947793e-01
+a4        8.138269e-02 1.632460e-01
+b1        3.795090e-01 1.794656e-01
+b2        2.276968e+00 1.898863e-01
+b3        2.705456e-01 2.095308e-01
+b4        3.231309e-01 2.335998e-01
+Status message         Optimization terminated successfully.
+Number of iterations   13
+Objective              <symfit.core.objectives.LeastSquares object at 0x10623C28>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10623B20>
+
+Goodness of fit qualifiers:
+chi_squared            2.1177314422482674
+objective_value        1.0588657211241337
+r_squared              0.9612219143941503
+
+ Fit: 
+ [ 3.32753111  1.68868257 -1.47637563 -2.27601863 -1.031129    1.60170364
+  0.46752722  0.88068259  3.32714904  1.69807493  1.69267433  1.69863855
+  1.40015468 -0.3901313   3.2561413   2.43999637 -1.95603907  0.81469648
+  0.64319   ]
+
+ Data: 
+ [ 3.5244075   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.600186e-01 1.359403e-01
+a1        4.143996e-01 2.084818e-01
+a2        -7.704812e-01 1.734317e-01
+a3        -1.292491e-01 1.782309e-01
+a4        8.364822e-02 1.519032e-01
+b1        3.950719e-01 1.684632e-01
+b2        2.262107e+00 1.781480e-01
+b3        2.745139e-01 1.961455e-01
+b4        4.155547e-01 2.162888e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x10607670>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106077A8>
+
+Goodness of fit qualifiers:
+chi_squared            1.856413872417983
+objective_value        0.9282069362089915
+r_squared              0.9700561221068661
+
+ Fit: 
+ [ 3.3050715  -2.03376689 -1.4443186  -2.37344843 -0.98837437  1.55291822
+  0.49627274  0.88378877  3.30511746  1.57452342  1.58224846  1.57161446
+  1.27514938 -0.43208003  3.26447379  2.50134672 -2.06546712  0.79429363
+  0.64271297]
+
+ Data: 
+ [ 3.5244075  -2.2161107  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.724412e-01 1.413016e-01
+a1        5.331524e-01 2.520811e-01
+a2        -7.608508e-01 1.845800e-01
+a3        -2.753115e-01 2.740661e-01
+a4        1.503670e-01 1.836134e-01
+b1        2.932910e-01 1.984632e-01
+b2        2.401701e+00 2.313802e-01
+b3        1.749032e-01 2.312337e-01
+b4        1.784945e-01 3.012639e-01
+Status message         Optimization terminated successfully.
+Number of iterations   14
+Objective              <symfit.core.objectives.LeastSquares object at 0x1069F8E0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1069FC70>
+
+Goodness of fit qualifiers:
+chi_squared            2.024019657563586
+objective_value        1.012009828781793
+r_squared              0.9660420603718312
+
+ Fit: 
+ [ 3.38991579 -1.9879751   1.70814982 -2.56275326 -1.04795738  1.55528788
+  0.50284008  0.78034776  3.3885066   1.6906525   1.6753993   1.69408569
+  1.45340659 -0.32841003  3.24552252  2.30564082 -2.02859855  0.80949537
+  0.62497448]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.683329e-01 1.460837e-01
+a1        4.378176e-01 2.238582e-01
+a2        -8.059984e-01 1.848898e-01
+a3        -1.107968e-01 1.896268e-01
+a4        9.237857e-02 1.669745e-01
+b1        3.647837e-01 1.796355e-01
+b2        2.317490e+00 2.004311e-01
+b3        2.459581e-01 2.130224e-01
+b4        3.711066e-01 2.276275e-01
+Status message         Optimization terminated successfully.
+Number of iterations   16
+Objective              <symfit.core.objectives.LeastSquares object at 0x1070C808>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1070C310>
+
+Goodness of fit qualifiers:
+chi_squared            2.114382217803564
+objective_value        1.057191108901782
+r_squared              0.9615310147800096
+
+ Fit: 
+ [ 3.31392328 -2.10730278  1.67627984 -1.54054002 -1.03371763  1.62591787
+  0.4589051   0.9089851   3.31371547  1.69759997  1.6972683   1.69676507
+  1.38316973 -0.40162345  3.25585059  2.46981636 -2.13960081  0.82157716
+  0.65385752]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        5.847914e-01 2.176604e-01
+a1        8.580710e-01 3.197265e-01
+a2        -7.879770e-01 1.636550e-01
+a3        -4.225604e-01 2.502689e-01
+a4        -2.696752e-01 2.440970e-01
+b1        1.603665e-02 2.609961e-01
+b2        1.770058e+00 3.415597e-01
+b3        -9.904102e-02 2.820113e-01
+b4        2.794835e-01 2.049922e-01
+Status message         Optimization terminated successfully.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x1069F568>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1069F130>
+
+Goodness of fit qualifiers:
+chi_squared            1.6730528015567847
+objective_value        0.8365264007783924
+r_squared              0.971925937600879
+
+ Fit: 
+ [ 3.42852246 -2.08322981  1.58144867 -1.40129174 -2.28255225  1.75737205
+  0.40201557  0.79795196  3.42684058  1.70644922  1.74036475  1.69527958
+  1.08881636 -0.20204505  3.252449    2.14156079 -2.10676726  0.96856082
+  0.95897081]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082   1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.835674e-01 1.468724e-01
+a1        4.175930e-01 2.295006e-01
+a2        -7.916896e-01 1.884469e-01
+a3        -1.015382e-01 1.913443e-01
+a4        6.679705e-02 1.659524e-01
+b1        3.689769e-01 1.833699e-01
+b2        2.286096e+00 1.926735e-01
+b3        2.621499e-01 2.141207e-01
+b4        3.617867e-01 2.338266e-01
+Status message         Optimization terminated successfully.
+Number of iterations   15
+Objective              <symfit.core.objectives.LeastSquares object at 0x136D35F8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106C5568>
+
+Goodness of fit qualifiers:
+chi_squared            2.167103052718203
+objective_value        1.0835515263591016
+r_squared              0.9658319474707069
+
+ Fit: 
+ [ 3.3177041  -2.0330587   1.69466554 -1.4553051  -2.35438694 -1.01699275
+  0.45056708  0.88176313  3.31751546  1.71695166  1.71609185  1.71617672
+  1.37913742 -0.40653536  3.25998023  2.46536253 -2.06324454  0.80823199
+  0.64137726]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.414277e-01 1.386249e-01
+a1        6.492787e-01 2.719600e-01
+a2        -9.370377e-01 2.042807e-01
+a3        1.037208e-03 1.945661e-01
+a4        -5.386777e-02 1.799656e-01
+b1        3.916887e-01 1.684929e-01
+b2        2.152363e+00 2.045865e-01
+b3        3.125386e-01 1.995284e-01
+b4        1.426127e-01 2.675149e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   16
+Objective              <symfit.core.objectives.LeastSquares object at 0x1064D5C8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1064DAD8>
+
+Goodness of fit qualifiers:
+chi_squared            1.8620830979104486
+objective_value        0.9310415489552243
+r_squared              0.9709291412915044
+
+ Fit: 
+ [ 3.38032409 -2.17721665  1.80243322 -1.36034518 -2.23958458 -1.00860539
+  1.31794066  0.79607129  3.37930007  1.7114684   1.65701522  1.72486419
+  1.51297741 -0.34112946  3.25857153  2.31673918 -2.19035191  0.76512845
+  0.57205035]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        6.510869e-01 2.576469e-01
+a1        4.873424e-01 2.030996e-01
+a2        -1.296848e+00 3.437673e-01
+a3        -2.118227e-01 1.819015e-01
+a4        3.769818e-01 2.346604e-01
+b1        9.638703e-01 3.901986e-01
+b2        2.332664e+00 1.724901e-01
+b3        -2.459781e-01 3.613925e-01
+b4        1.740098e-01 2.293875e-01
+Status message         Optimization terminated successfully.
+Number of iterations   17
+Objective              <symfit.core.objectives.LeastSquares object at 0x136C1E20>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x136C1B98>
+
+Goodness of fit qualifiers:
+chi_squared            1.7024524139505117
+objective_value        0.8512262069752559
+r_squared              0.9734190130987828
+
+ Fit: 
+ [ 3.49341728 -2.05504789  1.68709357 -1.16283201 -2.54459163 -1.12564038
+  1.55477984  0.61563197  3.48959496  1.66292782  1.64874241  1.66643607
+  1.50258271 -0.21356157  3.19403669  2.10000257 -2.09636364  0.84493742
+  0.64735153]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.246794e-01 1.261778e-01
+a1        3.451710e-01 1.939331e-01
+a2        -7.455126e-01 1.590745e-01
+a3        1.042324e-03 1.693124e-01
+a4        1.190363e-01 1.402389e-01
+b1        2.949657e-01 1.576614e-01
+b2        2.210163e+00 1.657301e-01
+b3        2.755547e-01 1.787857e-01
+b4        4.261933e-01 1.957203e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x106322C8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106B4D60>
+
+Goodness of fit qualifiers:
+chi_squared            1.5428462960755656
+objective_value        0.7714231480377828
+r_squared              0.9711025236557047
+
+ Fit: 
+ [ 2.98614089 -2.05848566  1.66634887 -1.37646515 -2.36671858 -1.07747761
+  1.62596167  0.48261445  0.81191053  1.68781682  1.68852744  1.68678225
+  1.39683846 -0.3411177   2.98942345  2.40147821 -2.08896187  0.8421053
+  0.67134851]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.916416e-01 1.445529e-01
+a1        4.226823e-01 2.214283e-01
+a2        -7.990971e-01 1.831991e-01
+a3        -9.180930e-02 1.889510e-01
+a4        5.673447e-02 1.627914e-01
+b1        3.601715e-01 1.794787e-01
+b2        2.290792e+00 1.889682e-01
+b3        2.558930e-01 2.091504e-01
+b4        3.403599e-01 2.254889e-01
+Status message         Optimization terminated successfully.
+Number of iterations   19
+Objective              <symfit.core.objectives.LeastSquares object at 0x10831898>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107F58E0>
+
+Goodness of fit qualifiers:
+chi_squared            2.096603179086049
+objective_value        1.0483015895430245
+r_squared              0.9670205604634066
+
+ Fit: 
+ [ 3.32363507 -2.03487268  1.74850462 -1.45658889 -2.34548712 -1.02257092
+  1.66547248  0.42560334  0.87854862  3.32334921  1.76212356  1.76602611
+  1.4099846  -0.39694282  3.25868629  2.44946623 -2.0642713   0.80689189
+  0.63526599]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.862553e-01 1.464969e-01
+a1        4.217067e-01 2.245650e-01
+a2        -7.957081e-01 1.855977e-01
+a3        -9.768203e-02 1.913252e-01
+a4        6.293534e-02 1.654510e-01
+b1        3.663435e-01 1.820805e-01
+b2        2.286827e+00 1.914842e-01
+b3        2.603942e-01 2.122954e-01
+b4        3.510109e-01 2.275860e-01
+Status message         Optimization terminated successfully.
+Number of iterations   16
+Objective              <symfit.core.objectives.LeastSquares object at 0x108318E0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10831CA0>
+
+Goodness of fit qualifiers:
+chi_squared            2.1534443920559867
+objective_value        1.0767221960279934
+r_squared              0.9660263884156803
+
+ Fit: 
+ [ 3.32057371 -2.03344113  1.71482394 -1.45666888 -2.34968395 -1.01993901
+  1.64350385  0.43402996  0.88050081  3.32033649  1.73386371  1.73353895
+  1.39247134 -0.4017754   3.25926555  2.45763785 -2.0632262   0.80783067
+  0.63880523]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.862172e-01 1.465061e-01
+a1        4.239371e-01 2.244107e-01
+a2        -7.980583e-01 1.857346e-01
+a3        -9.700134e-02 1.915560e-01
+a4        6.419064e-02 1.648436e-01
+b1        3.669472e-01 1.818550e-01
+b2        2.287001e+00 1.915421e-01
+b3        2.617603e-01 2.118882e-01
+b4        3.463383e-01 2.289089e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x1092A700>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1062DD18>
+
+Goodness of fit qualifiers:
+chi_squared            2.153712236887931
+objective_value        1.0768561184439656
+r_squared              0.9660186126071029
+
+ Fit: 
+ [ 3.32132287 -2.0318882   1.71785411 -1.4596492  -2.34791226 -1.02371203
+  1.63789155  0.42494084  0.88148217  3.32106595  1.73406885  1.7302832
+  1.39926042 -0.39947532  3.2586481   2.45519005 -2.06157947  0.81044584
+  0.64028302]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.832667e-01 1.430998e-01
+a1        4.150827e-01 2.212569e-01
+a2        -8.324979e-01 1.911447e-01
+a3        -8.547439e-02 1.894191e-01
+a4        1.094231e-01 1.714152e-01
+b1        3.650675e-01 1.781038e-01
+b2        2.312265e+00 1.933366e-01
+b3        3.072436e-01 2.169993e-01
+b4        3.311655e-01 2.264983e-01
+Status message         Optimization terminated successfully.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x1081F880>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1081FE98>
+
+Goodness of fit qualifiers:
+chi_squared            2.0849909066246806
+objective_value        1.0424954533123403
+r_squared              0.9673761832880557
+
+ Fit: 
+ [ 3.31460448 -2.01123837  1.75165925 -1.49281004 -2.34762339 -1.08046975
+  1.58306429  0.38406105  0.90274433  3.31434903  1.73239187  1.71608083
+  1.73605257 -0.39440789  3.25349304  2.46759682 -2.04151356  0.91701146
+  0.73175657]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518   -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        -7.183178e-03 2.263678e-01
+a1        -1.284948e-01 4.078215e-01
+a2        -1.161144e+00 2.875358e-01
+a3        -3.167253e-01 2.199153e-01
+a4        -7.198839e-02 1.731801e-01
+b1        5.041548e-01 1.829582e-01
+b2        2.512734e+00 2.263915e-01
+b3        5.358560e-01 2.566860e-01
+b4        5.953864e-01 2.565831e-01
+Status message         Optimization terminated successfully.
+Number of iterations   14
+Objective              <symfit.core.objectives.LeastSquares object at 0x106FB940>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107EE118>
+
+Goodness of fit qualifiers:
+chi_squared            1.7466212362688944
+objective_value        0.8733106181344472
+r_squared              0.9723179837065543
+
+ Fit: 
+ [ 3.43803826 -2.11211868  1.60135243 -1.28748585 -2.34303888 -1.21709712
+  1.69601064  0.53484362  0.73063333  3.43741294  1.66665029  1.68602841
+  1.66046114  1.34339781  3.32389082  2.04297592 -2.13966975  0.92835653
+  0.77681595]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359   2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        3.027720e-01 1.235074e-01
+a1        4.533267e-01 1.904414e-01
+a2        -7.986596e-01 1.570685e-01
+a3        -1.298352e-01 1.619302e-01
+a4        3.743968e-02 1.391457e-01
+b1        4.270705e-01 1.550924e-01
+b2        2.358756e+00 1.659746e-01
+b3        3.292114e-01 1.813464e-01
+b4        3.849230e-01 1.930013e-01
+Status message         Optimization terminated successfully.
+Number of iterations   15
+Objective              <symfit.core.objectives.LeastSquares object at 0x10966910>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10966A30>
+
+Goodness of fit qualifiers:
+chi_squared            1.5422459607117591
+objective_value        0.7711229803558796
+r_squared              0.9745601856341489
+
+ Fit: 
+ [ 3.57690422 -2.03850141  1.6786704  -1.44577127 -2.34156472 -1.02621594
+  1.62595155  0.42827831  0.85771547  3.57682115  1.702382    1.70218377
+  1.70142423  1.37243444 -0.43528602  2.66341878 -2.06769064  0.819225
+  0.65478035]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.684261e-01 1.416428e-01
+a1        4.045590e-01 2.186600e-01
+a2        -7.219683e-01 1.994109e-01
+a3        -8.067651e-03 2.148242e-01
+a4        1.001412e-01 1.618472e-01
+b1        3.758329e-01 1.749866e-01
+b2        2.326232e+00 1.918162e-01
+b3        3.715034e-01 2.380855e-01
+b4        4.832281e-01 2.666180e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   15
+Objective              <symfit.core.objectives.LeastSquares object at 0x136A9F70>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x136A92E0>
+
+Goodness of fit qualifiers:
+chi_squared            2.022324783736199
+objective_value        1.0111623918680994
+r_squared              0.9673456643438856
+
+ Fit: 
+ [ 3.35296656 -2.07253462  1.65137331 -1.35004398 -2.36640948 -1.11757436
+  1.63877446  0.50461143  0.79443702  3.35396923  1.68014151  1.68449205
+  1.67815056  1.39484632 -0.27497995  3.38255234 -2.10267479  0.86382189
+  0.69421079]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        3.027185e-01 1.476176e-01
+a1        4.054876e-01 2.233094e-01
+a2        -7.735914e-01 1.865672e-01
+a3        -1.292357e-01 1.929868e-01
+a4        8.150007e-02 1.618812e-01
+b1        3.808473e-01 1.784089e-01
+b2        2.273864e+00 1.889770e-01
+b3        2.721969e-01 2.083472e-01
+b4        3.165356e-01 2.322809e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   16
+Objective              <symfit.core.objectives.LeastSquares object at 0x109A4310>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x109A4688>
+
+Goodness of fit qualifiers:
+chi_squared            2.09277165281753
+objective_value        1.046385826408765
+r_squared              0.9613644371190554
+
+ Fit: 
+ [ 3.32947904 -1.90486939  1.68998286 -1.47483461 -2.25805814 -1.0315977
+  1.5985497   0.47015015  0.87832783  3.32906702  1.6977718   1.69173311
+  1.69851562  1.40282561 -0.38798439  3.25588971  2.43548391  0.81425399
+  0.64214558]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.843659e-01 1.430315e-01
+a1        4.050083e-01 2.225481e-01
+a2        -8.255244e-01 1.878766e-01
+a3        -1.014161e-01 1.874648e-01
+a4        1.021480e-01 1.674158e-01
+b1        3.494132e-01 1.811593e-01
+b2        2.293175e+00 1.884761e-01
+b3        3.119096e-01 2.185944e-01
+b4        3.831763e-01 2.278432e-01
+Status message         Optimization terminated successfully.
+Number of iterations   17
+Objective              <symfit.core.objectives.LeastSquares object at 0x108A4E98>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x108A4AA8>
+
+Goodness of fit qualifiers:
+chi_squared            2.081585681703028
+objective_value        1.040792840851514
+r_squared              0.9674816438845298
+
+ Fit: 
+ [ 3.30726246 -2.02704658  1.69759656 -1.45982675 -2.36212081 -0.99298169
+  1.59347719  0.44446517  0.88909087  3.30722911  1.69593814  1.68794936
+  1.69738626  1.49035747 -0.42605701  3.26152126  2.49524657 -2.05798037
+  0.77725979]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  1.2374194 ]
+
+#################
+Fourier fit n=4
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x)}
+Parameter Value        Standard Deviation
+a0        2.654332e-01 1.265516e-01
+a1        4.629406e-01 1.960221e-01
+a2        -7.311816e-01 1.650160e-01
+a3        -9.067443e-02 1.657183e-01
+a4        1.328819e-02 1.452118e-01
+b1        4.443274e-01 1.615101e-01
+b2        2.281103e+00 1.659584e-01
+b3        1.703556e-01 1.907717e-01
+b4        2.664554e-01 2.031367e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   19
+Objective              <symfit.core.objectives.LeastSquares object at 0x109B56E8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x109B5FD0>
+
+Goodness of fit qualifiers:
+chi_squared            1.6243577216011493
+objective_value        0.8121788608005747
+r_squared              0.9745546783822548
+
+ Fit: 
+ [ 3.34477159 -2.02584876  1.68440385 -1.48358871 -2.32197687 -1.17249685
+  1.64721534  0.36648538  0.88268616  3.34405987  1.73036921  1.73366571
+  1.72794155  1.17099964 -0.3377893   3.2486358   2.38154297 -2.05375671
+  0.48629927]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  0.57227146]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.523235e-01 1.643498e-01
+a1        4.679229e-01 2.314523e-01
+a2        -8.191101e-01 2.129470e-01
+a3        -1.537162e-01 2.043665e-01
+a4        2.698995e-02 1.731091e-01
+a5        1.756330e-01 2.874244e-01
+b1        4.445971e-01 2.415943e-01
+b2        2.332831e+00 2.691113e-01
+b3        1.607491e-01 2.352354e-01
+b4        1.731894e-01 2.587102e-01
+b5        -2.535987e-01 1.695419e-01
+Status message         Optimization terminated successfully.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x1079FF88>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1079FEE0>
+
+Goodness of fit qualifiers:
+chi_squared            1.5844675147069194
+objective_value        0.7922337573534597
+r_squared              0.9717700049567937
+
+ Fit: 
+ [-2.17721836  1.55828299 -1.29533318 -2.23453267 -1.23682241  1.75911806
+  0.56922056  0.71166482  3.48424527  1.6395676   1.67208268  1.630314
+  1.40574257 -0.14886976  3.20377162  2.01984462 -2.19607933  0.94313354
+  0.75849837]
+
+ Data: 
+ [-2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.583873e-01 1.590181e-01
+a1        4.674512e-01 2.271977e-01
+a2        -8.162210e-01 2.151336e-01
+a3        -1.623429e-01 1.956676e-01
+a4        2.741454e-02 1.706480e-01
+a5        1.735764e-01 2.881401e-01
+b1        4.478709e-01 2.353668e-01
+b2        2.333101e+00 2.661964e-01
+b3        1.612159e-01 2.342812e-01
+b4        1.642999e-01 2.489450e-01
+b5        -2.527480e-01 1.662640e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x106329A0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106328E0>
+
+Goodness of fit qualifiers:
+chi_squared            1.5828514646770613
+objective_value        0.7914257323385306
+r_squared              0.9710161787401012
+
+ Fit: 
+ [ 3.5012653   1.56053225 -1.30193096 -2.21879688 -1.23516706  1.7545736
+  0.57584719  0.7141723   3.49793829  1.63929239  1.67080693  1.6303227
+  1.40931989 -0.14953313  3.21377379  2.01898222 -2.17172717  0.94144516
+  0.75603237]
+
+ Data: 
+ [ 3.5244075   2.1789624  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.142293e-01 1.276711e-01
+a1        4.410569e-01 1.808270e-01
+a2        -8.416319e-01 1.697275e-01
+a3        -2.299438e-01 1.582336e-01
+a4        5.955579e-02 1.366524e-01
+a5        3.355651e-01 2.425335e-01
+b1        5.644708e-01 1.973162e-01
+b2        2.403809e+00 2.157295e-01
+b3        1.934040e-01 1.884249e-01
+b4        2.363839e-01 2.009300e-01
+b5        -2.780261e-01 1.310067e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   16
+Objective              <symfit.core.objectives.LeastSquares object at 0x107A9A90>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107A9190>
+
+Goodness of fit qualifiers:
+chi_squared            1.0241612432175393
+objective_value        0.5120806216087697
+r_squared              0.9834803221062759
+
+ Fit: 
+ [ 3.51349567 -2.21632205 -1.30763151 -2.17311463 -1.26584914  1.78408147
+  0.62249188  0.71191334  3.50957122  1.45290435  1.52748809  1.43214262
+  1.16032057 -0.14235108  3.19073078  2.01531471 -2.22973019  0.98417334
+  0.84244662]
+
+ Data: 
+ [ 3.5244075  -2.2161107  -1.2774924  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.360768e-01 1.991477e-01
+a1        4.924643e-01 2.599830e-01
+a2        -8.295551e-01 2.172542e-01
+a3        -2.197193e-01 4.347214e-01
+a4        6.468961e-02 3.054688e-01
+a5        2.159886e-01 3.780054e-01
+b1        4.464764e-01 2.353911e-01
+b2        2.407059e+00 5.240012e-01
+b3        1.560161e-01 2.338825e-01
+b4        1.326988e-01 3.334995e-01
+b5        -2.253886e-01 2.564297e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   22
+Objective              <symfit.core.objectives.LeastSquares object at 0x106C5B80>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106C57A8>
+
+Goodness of fit qualifiers:
+chi_squared            1.5803684127383404
+objective_value        0.7901842063691702
+r_squared              0.9734854081335187
+
+ Fit: 
+ [ 3.50938297 -2.15483301  1.55456434 -2.28157802 -1.24424381  1.76418079
+  0.55320076  0.70555822  3.50574168  1.64305348  1.67737557  1.63317854
+  1.38698773 -0.14429102  3.20340492  2.01190369 -2.17553526  0.94986467
+  0.77061467]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -2.1598082  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.533988e-01 1.566619e-01
+a1        4.829244e-01 2.287008e-01
+a2        -8.129936e-01 2.129431e-01
+a3        -1.552957e-01 1.919454e-01
+a4        3.014346e-02 1.699064e-01
+a5        1.427808e-01 3.213720e-01
+b1        4.250775e-01 2.546713e-01
+b2        2.330249e+00 2.654891e-01
+b3        1.413358e-01 2.446680e-01
+b4        1.775142e-01 2.491011e-01
+b5        -2.561709e-01 1.619670e-01
+Status message         Optimization terminated successfully.
+Number of iterations   19
+Objective              <symfit.core.objectives.LeastSquares object at 0x1062D598>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x1062DF10>
+
+Goodness of fit qualifiers:
+chi_squared            1.574617859837256
+objective_value        0.787308929918628
+r_squared              0.9713514658479596
+
+ Fit: 
+ [ 3.49591189 -2.21025942  1.56748289 -1.32355076 -1.22756728  1.74265772
+  0.59663559  0.72152886  3.49274553  1.63696265  1.66537094  1.62893536
+  1.42623959 -0.15427513  3.21850604  2.02640255 -2.23173064  0.93418126
+  0.74466905]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -1.279678    1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        6.201388e-01 4.480463e-01
+a1        8.698766e-01 6.702950e-01
+a2        -7.221960e-01 2.590113e-01
+a3        -3.773528e-01 3.959212e-01
+a4        -2.906316e-01 5.276659e-01
+a5        -1.166956e-01 5.446544e-01
+b1        -2.484087e-02 7.866467e-01
+b2        1.712582e+00 1.024596e+00
+b3        -1.675286e-01 5.671166e-01
+b4        1.925029e-01 2.438924e-01
+b5        -1.364656e-01 2.485031e-01
+Status message         Optimization terminated successfully.
+Number of iterations   21
+Objective              <symfit.core.objectives.LeastSquares object at 0x136C1850>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x136C1238>
+
+Goodness of fit qualifiers:
+chi_squared            1.5106644262334412
+objective_value        0.7553322131167206
+r_squared              0.9746508374829851
+
+ Fit: 
+ [ 3.49258547 -2.12656798  1.61364365 -1.24792767 -2.34637093  1.67799659
+  0.55954932  0.69488475  3.49041239  1.67261652  1.68726437  1.66760259
+  1.26333625 -0.12476625  3.26844899  1.96693647 -2.15470132  0.94045616
+  0.87531713]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082   1.5550369
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.551603e-01 1.528570e-01
+a1        4.244740e-01 2.298550e-01
+a2        -8.418436e-01 2.077397e-01
+a3        -1.771993e-01 1.894074e-01
+a4        2.055859e-02 1.644523e-01
+a5        2.882507e-01 3.263652e-01
+b1        4.886926e-01 2.375749e-01
+b2        2.421229e+00 2.892407e-01
+b3        1.600360e-01 2.274598e-01
+b4        2.007912e-01 2.453195e-01
+b5        -2.596301e-01 1.583324e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x136C1BF8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x109225F8>
+
+Goodness of fit qualifiers:
+chi_squared            1.5038727650808692
+objective_value        0.7519363825404346
+r_squared              0.976288897027668
+
+ Fit: 
+ [ 3.51077077 -2.21117929  1.5471908  -1.30285036 -2.18593696 -1.25563141
+  0.63750422  0.71088673  3.50701637  1.70555496  1.76755901  1.68785992
+  1.30463427 -0.14316586  3.19785989  2.01375029 -2.22548838  0.9660324
+  0.80363423]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  0.71338761  0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        2.254233e-01 1.929735e-01
+a1        6.714720e-01 2.846193e-01
+a2        -1.097977e+00 3.311467e-01
+a3        -6.562799e-02 2.009946e-01
+a4        -5.396400e-02 1.752916e-01
+a5        3.937977e-01 3.399460e-01
+b1        6.032990e-01 2.664743e-01
+b2        2.353796e+00 2.495568e-01
+b3        3.481031e-01 2.844986e-01
+b4        1.188208e-02 2.757491e-01
+b5        -1.099052e-01 2.075371e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x10874B50>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107A9C88>
+
+Goodness of fit qualifiers:
+chi_squared            1.3956297612991453
+objective_value        0.6978148806495726
+r_squared              0.9782114151373656
+
+ Fit: 
+ [ 3.50572783 -2.31700403  1.63548836 -1.37659567 -1.98499047 -1.22983227
+  1.5336865   0.73500853  3.50165552  1.685551    1.68781651  1.68289274
+  1.34628359 -0.16186782  3.17956905  2.05073531 -2.30676959  0.93462061
+  0.77567519]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.68154076  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        7.183021e-01 5.281626e-01
+a1        4.480020e-01 2.198365e-01
+a2        -1.599929e+00 1.104767e+00
+a3        -3.111777e-01 2.831718e-01
+a4        5.433223e-01 7.414890e-01
+a5        3.242760e-01 3.454468e-01
+b1        1.350200e+00 1.278099e+00
+b2        2.572727e+00 4.186588e-01
+b3        -3.185637e-01 7.030078e-01
+b4        1.421213e-01 2.418467e-01
+b5        5.151630e-02 4.576211e-01
+Status message         Optimization terminated successfully.
+Number of iterations   23
+Objective              <symfit.core.objectives.LeastSquares object at 0x10684C28>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10684628>
+
+Goodness of fit qualifiers:
+chi_squared            1.4894677260202986
+objective_value        0.7447338630101493
+r_squared              0.9767444177642182
+
+ Fit: 
+ [ 3.55482414 -2.08526583  1.55911301 -1.21594366 -2.43036214 -1.26802441
+  1.74892723  0.51526101  3.54864861  1.66141027  1.69529999  1.65106273
+  1.30986679 -0.13498134  3.11355029  2.01439083 -2.11576018  0.96960667
+  0.81787373]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  3.9629682   1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        2.905261e-01 1.445812e-01
+a1        3.951867e-01 2.036780e-01
+a2        -7.812310e-01 1.874166e-01
+a3        -6.618082e-02 1.796411e-01
+a4        7.638739e-02 1.523950e-01
+a5        1.492198e-01 2.530198e-01
+b1        3.767876e-01 2.125649e-01
+b2        2.275752e+00 2.368758e-01
+b3        1.964042e-01 2.070518e-01
+b4        2.709876e-01 2.273973e-01
+b5        -1.926774e-01 1.490962e-01
+Status message         Optimization terminated successfully.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x10831310>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x107F5178>
+
+Goodness of fit qualifiers:
+chi_squared            1.2285893545692375
+objective_value        0.6142946772846187
+r_squared              0.9769885490856578
+
+ Fit: 
+ [ 3.19632829 -2.16585403  1.56688308 -1.27625042 -2.26548781 -1.23328636
+  1.74425617  0.57071992  0.70002234  1.64328533  1.67274956  1.63478839
+  1.39926957 -0.16019209  3.00962945  2.07800499 -2.1870034   0.94025203
+  0.75995529]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  1.4582142   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.605492e-01 1.552468e-01
+a1        4.682282e-01 2.213908e-01
+a2        -8.247365e-01 2.081692e-01
+a3        -1.498140e-01 1.904992e-01
+a4        1.615063e-02 1.674634e-01
+a5        1.774313e-01 2.828684e-01
+b1        4.391698e-01 2.332084e-01
+b2        2.343527e+00 2.623537e-01
+b3        1.551801e-01 2.305754e-01
+b4        1.632751e-01 2.436376e-01
+b5        -2.491498e-01 1.611693e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x10900760>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10900FE8>
+
+Goodness of fit qualifiers:
+chi_squared            1.543579493912782
+objective_value        0.771789746956391
+r_squared              0.9757195891443734
+
+ Fit: 
+ [ 3.50108231 -2.17810983  1.60534279 -1.29958367 -2.22911464 -1.23265292
+  1.79824414  0.56103812  0.71391436  3.4977549   1.72037953  1.67919682
+  1.4199299  -0.15029707  3.21367678  2.01990551 -2.19646207  0.93732394
+  0.75125539]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.578591    1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.571909e-01 1.565474e-01
+a1        4.673392e-01 2.241574e-01
+a2        -8.245824e-01 2.105749e-01
+a3        -1.559319e-01 1.917393e-01
+a4        2.054132e-02 1.689434e-01
+a5        1.854105e-01 2.877797e-01
+b1        4.475643e-01 2.347127e-01
+b2        2.344959e+00 2.671818e-01
+b3        1.578746e-01 2.327377e-01
+b4        1.682205e-01 2.457992e-01
+b5        -2.529927e-01 1.626652e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   19
+Objective              <symfit.core.objectives.LeastSquares object at 0x109A44C0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x109A47A8>
+
+Goodness of fit qualifiers:
+chi_squared            1.5740277751806446
+objective_value        0.7870138875903223
+r_squared              0.9751674998183433
+
+ Fit: 
+ [ 3.50218084 -2.18016979  1.57709757 -1.29879562 -2.2274066  -1.23597962
+  1.78885125  0.56767967  0.7131851   3.49881653  1.66465854  1.65481842
+  1.40402091 -0.14909384  3.2124496   2.01843403 -2.19838188  0.94185405
+  0.75822835]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.582518
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.569468e-01 1.572763e-01
+a1        4.710729e-01 2.240815e-01
+a2        -8.217887e-01 2.107042e-01
+a3        -1.556839e-01 1.931321e-01
+a4        2.225275e-02 1.695995e-01
+a5        1.759610e-01 2.865414e-01
+b1        4.451223e-01 2.365860e-01
+b2        2.337053e+00 2.653133e-01
+b3        1.577809e-01 2.335008e-01
+b4        1.665115e-01 2.468344e-01
+b5        -2.547227e-01 1.631851e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x10607D60>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10607DA8>
+
+Goodness of fit qualifiers:
+chi_squared            1.58240181089029
+objective_value        0.791200905445145
+r_squared              0.9750327792050879
+
+ Fit: 
+ [ 3.50188954 -2.17757265  1.57110183 -1.29705835 -2.23244864 -1.23572705
+  1.76871745  0.56668935  0.71269475  3.49855431  1.6523055   1.68450122
+  1.4110626  -0.14880948  3.21373891  2.01754768 -2.19626055  0.94151964
+  0.75607442]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.972708e-01 1.556295e-01
+a1        4.933126e-01 2.142185e-01
+a2        -8.106086e-01 2.005133e-01
+a3        -1.003881e-01 1.927435e-01
+a4        5.109322e-02 1.627563e-01
+a5        1.117055e-02 3.251399e-01
+b1        3.387832e-01 2.524955e-01
+b2        2.264646e+00 2.632468e-01
+b3        1.611002e-01 2.217866e-01
+b4        1.010493e-01 2.450570e-01
+b5        -3.029919e-01 1.620942e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x10927598>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x109271C0>
+
+Goodness of fit qualifiers:
+chi_squared            1.4297111271929608
+objective_value        0.7148555635964804
+r_squared              0.9776293346813303
+
+ Fit: 
+ [ 3.50737748 -2.14596273  1.72587561 -1.25119163 -2.31844162 -1.28742269
+  1.6022378   0.59720973  0.6932192   3.50437303  1.67663449  1.66165919
+  1.68121498 -0.1239759   3.23351853  1.97416985 -2.17243218  1.06173756
+  0.8170019 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518   -0.17641934  2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        8.976229e-01 8.389456e-01
+a1        1.385993e+00 1.408274e+00
+a2        -2.791971e-01 8.496475e-01
+a3        1.066429e-01 4.443052e-01
+a4        1.794062e-01 2.873448e-01
+a5        3.685487e-01 4.035727e-01
+b1        3.234402e-01 2.976448e-01
+b2        2.027765e+00 5.351382e-01
+b3        -4.002703e-01 8.806707e-01
+b4        -4.395627e-01 9.553800e-01
+b5        -5.852639e-01 5.243544e-01
+Status message         Optimization terminated successfully.
+Number of iterations   24
+Objective              <symfit.core.objectives.LeastSquares object at 0x10927B38>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10927760>
+
+Goodness of fit qualifiers:
+chi_squared            1.5040708777615905
+objective_value        0.7520354388807953
+r_squared              0.9761621388311784
+
+ Fit: 
+ [ 3.55025228 -2.23579802  1.53897558 -1.3401765  -2.1139425  -1.1983095
+  1.79684486  0.59898103  0.72457018  3.5437033   1.61381048  1.65199523
+  1.60374549  1.51937511  3.06224254  2.09518538 -2.24554747  0.91921537
+  0.68233498]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359   2.5858788   2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.832404e-01 1.269659e-01
+a1        5.079565e-01 1.812520e-01
+a2        -7.981688e-01 1.699641e-01
+a3        -1.701097e-01 1.547345e-01
+a4        -1.607228e-02 1.371394e-01
+a5        1.082946e-01 2.329760e-01
+b1        4.616731e-01 1.896189e-01
+b2        2.364041e+00 2.139054e-01
+b3        2.050490e-01 1.891834e-01
+b4        2.018470e-01 1.991203e-01
+b5        -2.526479e-01 1.307537e-01
+Status message         Optimization terminated successfully.
+Number of iterations   19
+Objective              <symfit.core.objectives.LeastSquares object at 0x10A5F6E8>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10A5FA48>
+
+Goodness of fit qualifiers:
+chi_squared            1.0261798240162086
+objective_value        0.5130899120081043
+r_squared              0.9830728529080368
+
+ Fit: 
+ [ 3.73806722 -2.1744502   1.58031075 -1.26174225 -2.26328077 -1.20906668
+  1.72476945  0.59213843  0.68370735  3.73522399  1.63992646  1.66402821
+  1.63308185  1.43486044 -0.19499135  2.22514411 -2.1956972   0.921867
+  0.7312629 ]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.2009082  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        5.471332e-01 1.861240e-01
+a1        6.467859e-01 2.277993e-01
+a2        -1.036226e+00 2.324035e-01
+a3        -5.297085e-01 2.952868e-01
+a4        -1.821144e-01 2.003462e-01
+a5        2.614346e-01 2.579219e-01
+b1        4.479260e-01 2.070484e-01
+b2        2.140678e+00 2.656457e-01
+b3        -4.234955e-01 4.315910e-01
+b4        -5.749958e-01 5.307597e-01
+b5        -6.806063e-01 3.110591e-01
+Status message         Optimization terminated successfully.
+Number of iterations   17
+Objective              <symfit.core.objectives.LeastSquares object at 0x10EFB208>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10EFBE20>
+
+Goodness of fit qualifiers:
+chi_squared            1.2249479486986914
+objective_value        0.6124739743493457
+r_squared              0.9802208518632813
+
+ Fit: 
+ [ 3.66651861 -2.24663147  1.55471916 -1.33268437 -2.10343635 -1.18131721
+  1.77466997  0.61970822  0.7137671   3.65485423  1.61254405  1.64467133
+  1.60427718  1.54089628 -0.20147797  2.7557824  -2.25612491  0.90370057
+  0.66569348]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788  -2.2857932   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.617750e-01 1.582119e-01
+a1        4.620169e-01 2.264230e-01
+a2        -8.112684e-01 2.133789e-01
+a3        -1.676344e-01 1.949006e-01
+a4        3.070068e-02 1.697671e-01
+a5        1.719347e-01 2.861767e-01
+b1        4.491952e-01 2.346159e-01
+b2        2.330728e+00 2.649630e-01
+b3        1.651253e-01 2.338279e-01
+b4        1.590204e-01 2.482299e-01
+b5        -2.477860e-01 1.655166e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   18
+Objective              <symfit.core.objectives.LeastSquares object at 0x10612E20>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x10612AF0>
+
+Goodness of fit qualifiers:
+chi_squared            1.5723018913958926
+objective_value        0.7861509456979463
+r_squared              0.9709730545561099
+
+ Fit: 
+ [ 3.50043947 -2.12095426  1.56316826 -1.3080552  -2.19783919 -1.23354775
+  1.74931196  0.5813196   0.7160574   3.49711997  1.63942876  1.66983498
+  1.63076161  1.41172426 -0.15072793  3.21367306  2.02117784  0.93983126
+  0.75410758]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082   0.57227146
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.554291e-01 1.445105e-01
+a1        4.287626e-01 2.095571e-01
+a2        -9.081362e-01 2.072752e-01
+a3        -1.789999e-01 1.778212e-01
+a4        8.845090e-02 1.642861e-01
+a5        2.802915e-01 2.776748e-01
+b1        4.622220e-01 2.172092e-01
+b2        2.415577e+00 2.532442e-01
+b3        2.496186e-01 2.279774e-01
+b4        2.032333e-01 2.290189e-01
+b5        -2.751901e-01 1.504216e-01
+Status message         Optimization terminated successfully.
+Number of iterations   20
+Objective              <symfit.core.objectives.LeastSquares object at 0x106D1D78>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106D1718>
+
+Goodness of fit qualifiers:
+chi_squared            1.344135105278067
+objective_value        0.6720675526390335
+r_squared              0.9790020346484238
+
+ Fit: 
+ [ 3.50518478 -2.1967766   1.528417   -1.31270038 -2.19230196 -1.23808268
+  1.7970896   0.57341408  0.71777352  3.50150162  1.62250773  1.66425766
+  1.61099761  1.53064641 -0.15368426  3.19789728  2.02990208 -2.21203807
+  1.04476162]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  1.2374194 ]
+
+#################
+Fourier fit n=5
+#################
+
+{y: a0 + a1*cos(6.28318530717959*x) + a2*cos(12.5663706143592*x) + a3*cos(18.8495559215388*x) + a4*cos(25.1327412287183*x) + a5*cos(31.4159265358979*x) + b1*sin(6.28318530717959*x) + b2*sin(12.5663706143592*x) + b3*sin(18.8495559215388*x) + b4*sin(25.1327412287183*x) + b5*sin(31.4159265358979*x)}
+Parameter Value        Standard Deviation
+a0        3.635034e-01 1.335827e-01
+a1        5.375427e-01 1.944470e-01
+a2        -6.809433e-01 1.964331e-01
+a3        -1.052621e-01 1.662713e-01
+a4        -6.044143e-02 1.515385e-01
+a5        -2.513668e-02 2.698969e-01
+b1        4.071626e-01 2.017296e-01
+b2        2.203510e+00 2.380509e-01
+b3        2.012034e-02 2.139350e-01
+b4        8.880501e-02 2.146964e-01
+b5        -2.521426e-01 1.382568e-01
+Status message         Desired error not necessarily achieved due to precision loss.
+Number of iterations   17
+Objective              <symfit.core.objectives.LeastSquares object at 0x106407F0>
+Minimizer              <symfit.core.minimizers.BFGS object at 0x106406A0>
+
+Goodness of fit qualifiers:
+chi_squared            1.1471749227773602
+objective_value        0.5735874613886801
+r_squared              0.982029675807427
+
+ Fit: 
+ [ 3.5035285  -2.14301062  1.64287509 -1.25366979 -2.31931969 -1.29812841
+  1.65589675  0.58111004  0.69484467  3.50071936  1.66795472  1.67372071
+  1.66590572  1.31935673 -0.12411332  3.24144913  1.9733882  -2.16925199
+  0.54036328]
+
+ Data: 
+ [ 3.5244075  -2.2161107   2.1789624  -1.2774924  -2.1598082  -1.279678
+  1.5550369   0.71338761  0.68154076  3.9629682   1.4582142   1.578591
+  1.582518    1.1542359  -0.17641934  2.5858788   2.2009082  -2.2857932
+  0.57227146]
